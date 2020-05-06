@@ -1,2 +1,2 @@
 # nodejs-applications
-Some examples of Python applications
+Some examples of Node.js applications
